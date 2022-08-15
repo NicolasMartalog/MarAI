@@ -1,5 +1,5 @@
 # MarAI (Mario Reinforcement Learning)
-This project is to build a reinforcement learning model that is able complete Super Mario Bros' levels with Proximal Policy Optimization and Generalized Advantage Estimation (PPO+GAE). This project was built with OpenAI-gym, nes_py, NumPy, matplotlib, and PyTorch. Inside the checkpoints, directories are weights for the level/plot of average reward throughout training episodes.
+This project is to build a reinforcement learning model that is able complete Super Mario Bros.' levels with Proximal Policy Optimization and Generalized Advantage Estimation (PPO+GAE). This project was built with OpenAI-gym, nes_py, NumPy, matplotlib, and PyTorch. Inside the checkpoints, directories are weights for the level/plot of average reward throughout training episodes.
 
 ## W1-L1
 ![MarAigif](https://user-images.githubusercontent.com/54895749/184584969-5cc968fd-e6c0-4490-9158-659627f53de3.gif)
